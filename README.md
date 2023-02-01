@@ -34,6 +34,6 @@ A tutorial for new lab members on how to set up SSH access to github on sivri wi
 
 ## Step 4: Update your remote URLs
 1. Now, for every repository you own, you should update the remote url:
-    - `$ git remote set-url origin git@github.com-<github_username>:<path_to_your_repo>.git`
+    - `git remote set-url origin git@github.com-<github_username>:<path_to_your_repo>.git`
     - For example, if I wanted to update the remote url for the `set-up-ssh-tutorial` repository, I would type:
-        - `$ git remote set-url origin git@github.com-alexgshaw:BYU-PCCL/set-up-ssh-tutorial.git`
+        - `git remote set-url origin git@github.com-alexgshaw:BYU-PCCL/set-up-ssh-tutorial.git`
